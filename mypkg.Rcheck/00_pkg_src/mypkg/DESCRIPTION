@@ -1,0 +1,13 @@
+Package: mypkg
+Type: Package
+Title: Moshers first test package
+Version: 1.0
+Date: 2011-06-08
+Author: Steven Mosher
+Maintainer: Steven Mosher <moshersteven@gmail.com>
+Description: This package performs a few functions and demonstrates how
+  to build a package
+License: GPL 2
+LazyLoad: yes
+NeedsCompilation: no
+Packaged: 2015-04-26 08:30:47 UTC; addy

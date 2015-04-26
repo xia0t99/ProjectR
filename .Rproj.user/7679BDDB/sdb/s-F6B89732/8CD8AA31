@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{f}\n\\alias{f}\n\n\\title{ Addition Function}\n\n\\description{ The function adds two numbers}\n\n\\usage{\nf(x, y)\n}\n\n\\arguments{\n  \\item{x}{ The first argument for addition}\n\n  \\item{y}{ The second item for addition}\n\n}\n\\details{ No more details required. It adds two numbers}\n\n\\value{ Returns a number that is the sum }\n\n\\references{ package.Skeleton code}\n\n\\author{ Steven Mosher} \n\n\\note{ There are no further notes}\n\n\\examples{\n  x <- 1\n  y <- 3\n  test <- f(x,y)\n  print(test)\n}\n\n\\keyword{ arith }",
+    "created" : 1430036981005.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "271443821",
+    "id" : "8CD8AA31",
+    "lastKnownWriteTime" : 1430037015,
+    "path" : "C:/ProjectR/TestPackage/mypkg/man/f.Rd",
+    "project_path" : "mypkg/man/f.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

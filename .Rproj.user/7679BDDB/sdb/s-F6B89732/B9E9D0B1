@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{e}\n\\alias{e}\n\\docType{data}\n\\title{ Generate 1000 variates of a normal}\n\n\\description{ This generates rnorm(1000)}\n\n\\usage{data(e)}\n\\format{\n  The format is:\n num [1:1000] 0.653 -0.188 -0.469 -1.519 0.243 ...\n}\n\\details{ Not any details needed}\n\n\\source{ The skeleton example code}\n\n\\references{ No references}\n\n\\examples{\ndata(e)\n## maybe str(e) ; plot(e) ...\n}\n\\keyword{datasets}",
+    "created" : 1430036964220.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "563712025",
+    "id" : "B9E9D0B1",
+    "lastKnownWriteTime" : 1430036978,
+    "path" : "C:/ProjectR/TestPackage/mypkg/man/e.Rd",
+    "project_path" : "mypkg/man/e.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}
